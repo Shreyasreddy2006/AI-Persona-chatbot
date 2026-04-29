@@ -1,0 +1,10 @@
+{
+  "name": "ai-persona-chatbot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "node server/index.js"
+  }
+}
